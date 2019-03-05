@@ -1,13 +1,13 @@
 # Roasted Brussels Sprouts
 
-This is a easy, healthy and fast food and trust me even if you don't like brussels try it.
+This is an easy, healthy and fast food, even if you don't like brussels try it.
 
 ## Ingredients
 
 * 700 gr Brussels
 * 1 tbsp honey / or sugar
 * 4 tbsp olive oil
-* 1 tbsp balsamico
+* 1 tbsp balsamic
 * 1 garlic clove
 * salt
 * pepper
@@ -22,11 +22,12 @@ Mix in a bowl:
 5. Garlic (squashed)
 6. Balsamico (if you like it)
 
-## Prepare the brussels
 
-1. Preheat the ofen 200C
-2. Place the brussels on the baking tray (cut surface to the top)
-2. Place the brussels in the ofen and leave them there for around 15 - 20 minutes
+## Prepare the Brussels
+
+1. Preheat the oven 200C
+2. Place the Brussels on the baking tray (cut surface to the top)
+3. Place the Brussels in the oven and leave them there for around 15 - 20 minutes
 
 ## Enjoy
 
